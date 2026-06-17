@@ -9,8 +9,8 @@ Thank you for choosing Nova Stone Vietnam. Please view our company video or sele
 
 ### 📂 Document Directory
 
-* 📄 **[Hot Selling Quartz Slab Patterns](https://docs.google.com/viewer?url=https://novastone-vn.github.io/novastonevn-sales-docs/NovaStone-VN-Hot-Selling-Quartz-Slab-Pattern.pdf)** `(approx. 8.5 MB)`
-* 📄 **[Nova Stone Company Profile](https://docs.google.com/viewer?url=https://novastone-vn.github.io/novastonevn-sales-docs/NovaStoneVN-Company-Profile.pdf)** `(11.2 MB)`
+* 📄 **[Hot Selling Quartz Slab Patterns](https://docs.google.com/viewer?url=https://novastone-vn.github.io/novastonevn-sales-docs/NovaStone-VN-Hot-Selling-Quartz-Slab-Pattern.pdf)** `(3.5 MB)`
+* 📄 **[Nova Stone Company Profile](https://docs.google.com/viewer?url=https://novastone-vn.github.io/novastonevn-sales-docs/NovaStoneVN-Company-Profile.pdf)** `(11.5 MB)`
 
 ---
 *(Documents will open in a new full-screen reader. You can easily download them using the 📥 icon in the top right corner of the reader.)*
