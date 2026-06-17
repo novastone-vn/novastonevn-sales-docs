@@ -1,6 +1,6 @@
-Thank you for choosing Nova Stone Vietnam. Please view our company video or select a document from the directory below to download.
+Thank you for choosing Nova Stone Quartz Vietnam. Please view our company video or select a document from the directory below to download.
 
-### 🎬 Nova Stone Vietnam Company Video
+### 🎬 Nova Stone Quartz Vietnam Company Video
 *(Click play to watch our factory and production overview)*
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yyWeb30A4RA" title="Nova Stone Quartz Vietnam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
