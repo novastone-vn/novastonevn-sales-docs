@@ -1,5 +1,3 @@
-# Discover Nova Stone's Top Quartz Designs
-
 Thank you for choosing Nova Stone Vietnam. Browse our most popular and highly sought-after quartz stone slab patterns below. 
 
 ### 📥 View & Download: Hot Selling Patterns Catalog
