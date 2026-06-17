@@ -2,6 +2,6 @@ Thank you for choosing Nova Stone Vietnam. Browse our most popular and highly so
 
 ### 📥 View & Download: Hot Selling Patterns Catalog
 
-<iframe src="NovaStone%20VN%20Hot%20Selling%20Quartz%20Stone%20Slab%20Pattern.pdf" width="100%" height="800px" style="border: 1px solid #ccc;">
-    Your browser does not support inline PDF viewing. <a href="NovaStone%20VN%20Hot%20Selling%20Quartz%20Stone%20Slab%20Pattern.pdf">Please click here to download the catalog</a>.
+<iframe src="https://docs.google.com/viewer?url=https://novastone-vn.github.io/novastonevn-sales-docs/NovaStone%20VN%20Hot%20Selling%20Quartz%20Stone%20Slab%20Pattern.pdf&embedded=true" width="100%" height="600px" style="border: 1px solid #ccc;">
+    <a href="NovaStone%20VN%20Hot%20Selling%20Quartz%20Stone%20Slab%20Pattern.pdf">Click here to download the catalog</a>.
 </iframe>
